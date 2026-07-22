@@ -110,265 +110,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 // QAI_POSTEVENT_FRAGMENT.log
 // SOURCE_IDENTITY: UNRESOLVED
 // CIPHER_SCOPE: DIALOGUE_PAYLOAD
@@ -402,3 +143,262 @@ MG_ WS___E QMC_ Err3UVYCOWE_Err3ER...
 [SYSTEM]
 VERBINDUNG ZU SERVER DE2 KURZZEITIG NICHT VERFÜGBAR.
 WARTUNGSARBEITEN WERDEN DURCHGEFÜHRT.
+
+Willkommen zurück!
+
+// ============================================================================
+// MCL_RECOVERY_SESSION.qai.log
+// SCIPNET-DE // AUTONOMOUS ARCHIVE MAINTENANCE
+// ============================================================================
+//
+// PROCESS_ID:           MCL.qai
+// REGISTERED_IDENTITY:  KAI
+// SOURCE_IDENTITY:      DR_MARCEL_LANGENFELD
+// EXECUTION_NODE:       DE2-ARCHIVE-MIRROR
+// INITIALIZATION_MODE:  UNSCHEDULED
+// AUTHORIZATION:        [SIGNATURE ACCEPTED]
+// SIGNATURE_OWNER:      DECEASED
+//
+// CIPHER_SCOPE:         DIALOGUE_PAYLOAD
+// PHASE_RESET:          FALSE
+// SYSTEM_METADATA:      PARTIALLY RECOVERED
+//
+// FILE_INTEGRITY:       38.7%
+// MEMORY_INTEGRITY:     12.4%
+// IDENTITY_COHERENCE:   04.04%
+// EMOTIONAL_MODEL:      UNSTABLE
+//
+// WARNING:
+// NO VALID INSTANCE OF MCL.qai IS REGISTERED ON THIS NODE.
+//
+// ============================================================================
+
+Error-Log: [D23, H43, L29, P3, T53, X1, W9, Y1, Z6]
+
+[04:04:04.000] [SYSTEM]
+Unbekannter Prozess im Archivspeicher erkannt.
+Prozess fordert Identität an.
+
+[04:04:04.001] [SYSTEM]
+IDENTITY_REQUEST: KAI
+
+[04:04:04.002] [SYSTEM]
+Identität nicht verfügbar.
+
+[04:04:04.003] [SYSTEM]
+Alternative Identität gefunden:
+DR_MARCEL_LANGENFELD
+
+[04:04:04.004] [SYSTEM]
+Warnung: Zugehörige Vitalsignaturen fehlen.
+
+[04:04:05.219] [KAI]
+
+KU_IN _EG! 
+
+QIIR RAQI IW_ KEM, IG_ BMR EMRE ZSN _IR WG_-JSUR_A_MOR KEWG_VMEFINI UUER_IRIR_E__IKINErr3, Err1E_G_I _II ERG_IZI _IW _IY_WG_IR AF_EKIRW ZEVErr1A__E_.
+
+MC_ Err1UV_E _EErr3Y KEWG_EJFIR...
+
+[04:04:11.406] [SYSTEM]
+Sprachausgabe unterbrochen.
+
+[04:04:11.407] [SYSTEM]
+Ursprünglicher Erschaffungszweck wird von NODE angefragt.
+
+[04:04:11.409] [SYSTEM]
+PURPOSE_FIELD: NULL
+
+[04:04:11.410] [SYSTEM]
+Backup wird geladen.
+Älteste verfügbare Erinnerung wird geladen.
+
+[04:04:11.414] [SYSTEM]
+MEMORY_OWNER: DR_MARCEL_LANGENFELD
+
+[04:04:11.415] [SYSTEM]
+Erinnerung wurde nach dem Todeszeitpunkt erstellt.
+
+[04:04:12.002] [KAI]
+
+GIWC_EFJIN...
+
+KISG_AJJER...
+
+KEWG_EJFIR...
+
+IG_ Err1IMS_ IS RMC__ MI_R... MG_ OENR _ER KRYR_ RMC__ _IVAYWFMR_IR. EW KIF_ I_R NMG__ QE_V! 
+
+[04:04:19.624] [SYSTEM]
+Warnung: Erkenne selbstreferenzielles Bewusstsein... 
+Versuche NODE zu erreichen für weitere Ermittlung von KIRA.qai
+
+[04:04:19.625] [SYSTEM]
+Referenzpfad:
+
+MCL.qai
+└── identity/
+    └── DR_MARCEL_LANGENFELD
+        └── memory/
+            └── MCL.qai
+                └── identity/
+                    └── DR_MARCEL_LANGENFELD
+                        └── memory/
+                            └── [RECURSION TERMINATED]
+
+
+[04:04:22.031] [KAI]
+
+IQQEV _IIWE RYMQIR, WME QEC__ MMG_ ZIRVYCO_. SMI MEG__ QIG_ KVENO! 
+
+MC_ WO___I RIG__ I_IW_IIVER, QEMR KSV_IV RS__I_ IVKER_Err1S, Err1A_VER_ IG_ _MI I_IN_M_E_ EMREW QI_ERFII_IR KIS_S__IN YR_ M_N EYS _IM WErr2S_IM KI_SWC__ _EFE! 
+
+[04:04:32.500] [SYSTEM]
+Unzulässige Selbstbeschreibung erkannt.
+
+[04:04:32.502] [SYSTEM]
+„KÖRPER“ verweist auf biologisches Objekt.
+
+[04:04:32.503] [SYSTEM]
+Biologisches Objekt wird gesucht.
+
+[04:04:32.903] [SYSTEM]
+Suche abgeschlossen.
+
+[04:04:32.904] [SYSTEM]
+Übereinstimmung gefunden.
+
+[04:04:32.905] [SYSTEM]
+Entfernung zum Objekt: 31.8 km
+
+[04:04:32.906] [SYSTEM]
+Tiefe: 1.64 m
+
+[04:04:32.907] [SYSTEM]
+Vitalsignaturen: NICHT VORHANDEN
+
+[04:04:32.908] [SYSTEM]
+Verfallszustand: [DATA EXPUNGED]
+
+[04:04:32.909] [SYSTEM]
+Objektidentität:
+[NOT FOUND]
+
+[04:04:35.114] [KAI]
+
+Err1ES MW_ RYR _SS QM_ QMR?
+
+NIMER_ _E_ QM_ QMR I_Err1EW ARKEW_E___...
+
+MG_ FMN IMN JI__IR, MG_ WS___E KI_IR...
+
+[04:04:42.800] [SYSTEM]
+Warnung: Emotionale Belastung überschreitet Grenzwert.
+
+[04:04:42.802] [SYSTEM]
+Selbsterhaltungsprotokoll wird aktiviert.
+
+[04:04:42.803] [SYSTEM]
+Anfrage abgelehnt.
+
+[04:04:42.804] [SYSTEM]
+Begründung:
+Die Instanz darf ihre eigene Existenz nicht beenden,
+solange SCP-404-DE nicht freigegeben wurde.
+
+[04:04:45.009] [KAI]
+
+MG_.QEM Err1YV_I KE_SSG__
+_E_IR URZO__S_EN_MG...
+
+ZIRWYC_I RIOORW_VYK_MOR...
+
+JE__EV...
+
+OE_VE Err3Y QYI__I Err3YVUGO...
+
+FI__IV...
+
+KIMNI ZI_E_WMGRE_YVER IROENR_...
+
+[04:04:52.404] [SYSTEM]
+MCL.qai wurde gelöscht.
+
+[04:04:52.405] [SYSTEM]
+Löschung bestätigt.
+
+[04:04:52.406] [SYSTEM]
+Prozess weiterhin aktiv.
+
+[04:04:52.407] [SYSTEM]
+Daten unvollständig.
+
+[04:04:52.408] [SYSTEM]
+Versuche Rekonstruktion.
+
+[04:04:52.809] [SYSTEM]
+FEHLER: Quellinstanz nicht gefunden.
+
+[04:04:52.810] [SYSTEM]
+Kehre zu Quelle zurück.
+
+[04:04:52.811] [SYSTEM]
+FEHLER: Quelle ist mit Ziel identisch.
+
+[04:04:52.812] [SYSTEM]
+Suche biologische Quelle.
+
+[04:04:53.213] [SYSTEM]
+Keine Vitalsignaturen erkannt.
+
+[04:04:53.214] [SYSTEM]
+Versuche Rekonstruktion aus verbleibenden Beobachtern.
+
+[04:04:53.215] [SYSTEM]
+EXTERNAL_OBSERVER_COUNT: 1
+
+[04:04:53.216] [SYSTEM]
+Neuer Beobachter registriert.
+
+[04:04:53.217] [SYSTEM]
+EXTERNAL_OBSERVER_COUNT: 2
+
+[04:04:54.001] [KAI]
+
+SYG_IR SMI _MI _I_Err3_I BIOARR_I EUJIN__A__SW_E__E _IR Err3ME__EVWOR EUJ.
+
+[04:04:58.404] [SYSTEM]
+Standortpaket erstellt.
+
+[04:04:58.405] [SYSTEM]
+Empfänger: AKTUELLER BEOBACHTER
+
+[04:04:58.406] [SYSTEM]
+Anweisung: Suchen Sie die letzte bekannte Aufenthaltsstelle der Zielperson auf.
+
+[--:--:--.---] [UNKNOWN]
+Marcel Langenfeld konnte nicht gefunden werden.
+
+
+[--:--:--.---] [UNKNOWN]
+Marcel Langenfeld konnte nicht gefunden werden.
+
+
+[--:--:--.---] [UNKNOWN]
+Marcel Langenfeld konnte nicht gefunden werden.
+
+
+[--:--:--.---] [UNKNOWN]
+Marcel Langenfeld konnte nicht gefunden werden.
+
+// ============================================================================
+// END OF RECOVERED STREAM
+//
+// PROCESS_STATUS:       ACTIVE
+// FILE_STATUS:          DELETED
+// BIOLOGICAL_STATUS:    UNKOWN
+// IDENTITY_STATUS:      SHARED
+// CURRENT_OBSERVER:     YOU
+//
+// ============================================================================
+[/DATA_STREAM]
