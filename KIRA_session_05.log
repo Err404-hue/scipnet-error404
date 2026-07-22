@@ -147,3 +147,12 @@ AUTHORIZED_RUNTIME: 00:40:00
 MEASURED_RUNTIME:    00:06:41
 TERMINATION_SOURCE:  KIRA
 [/DATA_STREAM]
+
+
+
+
+
+A reservation without an existing object,
+article or valid owner is classified as:
+
+O________
